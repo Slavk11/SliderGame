@@ -11,6 +11,8 @@
 		79E5E4AA2A40A9D9002B9AF4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E5E4A92A40A9D9002B9AF4 /* ContentView.swift */; };
 		79E5E4AC2A40A9DA002B9AF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79E5E4AB2A40A9DA002B9AF4 /* Assets.xcassets */; };
 		79E5E4AF2A40A9DA002B9AF4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79E5E4AE2A40A9DA002B9AF4 /* Preview Assets.xcassets */; };
+		79E5E4BC2A40C309002B9AF4 /* UISliderRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E5E4BB2A40C308002B9AF4 /* UISliderRepresentation.swift */; };
+		79E5E4BE2A40C521002B9AF4 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E5E4BD2A40C521002B9AF4 /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		79E5E4A92A40A9D9002B9AF4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		79E5E4AB2A40A9DA002B9AF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79E5E4AE2A40A9DA002B9AF4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		79E5E4BB2A40C308002B9AF4 /* UISliderRepresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISliderRepresentation.swift; sourceTree = "<group>"; };
+		79E5E4BD2A40C521002B9AF4 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				79E5E4A72A40A9D9002B9AF4 /* SliderGameApp.swift */,
 				79E5E4A92A40A9D9002B9AF4 /* ContentView.swift */,
+				79E5E4BB2A40C308002B9AF4 /* UISliderRepresentation.swift */,
+				79E5E4BD2A40C521002B9AF4 /* SliderView.swift */,
 				79E5E4AB2A40A9DA002B9AF4 /* Assets.xcassets */,
 				79E5E4AD2A40A9DA002B9AF4 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				79E5E4AA2A40A9D9002B9AF4 /* ContentView.swift in Sources */,
 				79E5E4A82A40A9D9002B9AF4 /* SliderGameApp.swift in Sources */,
+				79E5E4BE2A40C521002B9AF4 /* SliderView.swift in Sources */,
+				79E5E4BC2A40C309002B9AF4 /* UISliderRepresentation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
